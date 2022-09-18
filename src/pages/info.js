@@ -14,14 +14,8 @@ function Info() {
             </div>
             <div className='text-5xl border-b-2  flex justify-center items-end'>About the App</div>
             <ol className='w-[80%] md:w-[50%] pt-10'>
-                <li>Code Playground is a online application for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets</li>
-                <li>It is created by  <a
-                    href='https://github.com/Arshanshagarwal'
-                    className='no-underline hover:bg-white hover:text-blue-400 hover:font-bold'
-                    target='_blank'>
-                    Arshansh
-                </a></li>
-                <li>Code Playground allows the user to create, share and run their code in real-time along with their friends</li>
+                <li>Code Playground is an online application for testing and showcasing real time user-created HTML, CSS and JavaScript code snippets</li>
+                <li>The user can create custom rooms, and share its room-id to invite new members to the room.</li>
                 <li>Inspired by <a
                     href='https://jsfiddle.net/'
                     className='no-underline hover:bg-white hover:text-blue-400 hover:font-bold'
